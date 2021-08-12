@@ -1,5 +1,6 @@
-<center>well this a webpage which shows visual representation or sorting algorithms for this projects i give whole credit to Clément Mihailescu for designing this tutorial</center>
+# well this a webpage which shows visual representation or sorting algorithms for this projects i give whole credit to Clément Mihailescu for designing this tutorial
 
+-
 
 ![alt text](https://github.com/jayendramadaram/sorting-algos/blob/main/gitup.jpg?raw=true)
 
