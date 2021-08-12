@@ -1,3 +1,5 @@
+<center>well this a webpage which shows visual representation or sorting algorithms for this projects i give whole credit to Clément Mihailescu for designing this tutorial</center>
+
 # Features
 1. Change array size
 2. Change animation speed
